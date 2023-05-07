@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\34692\source\repos\Project13\Project13\源.cpp(4,12): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+C:\Users\34692\source\repos\Project13\Project13\源.cpp(7,1): warning C4326: “main”的返回类型应为“int”而非“void”
+  Project13.vcxproj -> C:\Users\34692\source\repos\Project13\Debug\Project13.exe
